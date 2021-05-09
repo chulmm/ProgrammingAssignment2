@@ -37,3 +37,5 @@ cacheSolve <- function(x, ...) {
   x$setInverse(inv)
   inv
 }
+
+$ git rev-parse HEAD
